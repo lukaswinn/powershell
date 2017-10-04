@@ -14,7 +14,7 @@ $HF_2012 = '<<File Path>>\Windows Server 2012\windows8-rt-kb4012214-x64_b14951d2
 $HF_2012R2 = '<<File Path>>\Windows Server 2012 R2\windows8.1-kb4012213-x64_5b24b9ca5a123a844ed793e0f2be9741485.msu'
 
 #Define path to PSExec
-$psExec = '<<File Path>>psexec.exe'
+$psExec = '<<File Path>>\psexec.exe'
 
 # Begin Script
 Write-Host "`nMS17-010 - Patch Installation Script"
